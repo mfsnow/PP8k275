@@ -3,15 +3,23 @@
 
 ## Official Ruleset
 
+-   [Objective](#objective)
 -   [Field of Play & Equipment](#field-of-play--equipment)
 -   [Requirements](#requirements)
 -   [Terminology](#terminology)
--   [Objective](#objective)
 -   [Possession](#possession)
 -   [Service](#service)
 -   [Reception](#reception)
 -   [End of Play](#end-of-play)
 -   [Scoring](#scoring)
+
+
+## Objective
+The objective of the rules are to be as *ruleless* as possible, which means our rules are very broad. If you don't see it in this ruleset, consider it legal. Try not to hurt each other. Anyways, the real objective of the game is to have as much fun as possible. Generally, this means we have developed the rules to help extend rallies and allow for seemingly improbable shots to occur with regularity.
+
+### Game Objective
+Accumulate at least 21 points and have at least 2 more points than the opponent.
+
 
 ## Field of Play & Equipment
 
@@ -40,13 +48,6 @@
 
 ### Examples
 Although the rules allow the number of players per team to be scalable, all examples will assume there are four players, two per team. The teams will be known as **A** and **B**, and the players for teams will be known as **A1**/**A2** and **B1**/**B2** respectively.
-
-
-## Objective
-The objective of the rules are to be as *ruleless* as possible, which means our rules are very broad. If you don't see it in this ruleset, consider it legal. Try not to hurt each other. Anyways, the real objective of the game is to have as much fun as possible. Generally, this means we have developed the rules to help extend rallies and allow for seemingly improbable shots to occur with regularity.
-
-### Game Objective
-Accumulate at least 21 points and have at least 2 more points than the opponent.
 
 
 ## Possession
