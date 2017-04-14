@@ -3,26 +3,22 @@
 
 ## Official Ruleset
 
--   Field of Play & Equipment
--   Requirements
--   Terminology
--   Objective
--   Possession
--   Service
--   Reception
--   End of Play
--   Scoring
+-   [Field of Play & Equipment](#field-of-play--equipment)
+-   [Requirements](#requirements)
+-   [Terminology](#terminology)
+-   [Objective](#objective)
+-   [Possession](#possession)
+-   [Service](#service)
+-   [Reception](#reception)
+-   [End of Play](#end-of-play)
+-   [Scoring](#scoring)
 
 ## Field of Play & Equipment
 
 -   An enclosed room is recommended
--   Standard issue ping pong table with posts and a net, with the table arranged within the room in anyway. Aligning and centering the table in the middle of the room is frowned upon.
-    -   The room is divided into two *sides*. The boundary between the two *sides* is defined broken into three straight lines. The first runs perpendicular from each wall to each wall's nearest post, and continuing along the net.
+-   Standard issue ping pong table with posts and a net, with the table arranged within the room in anyway. Aligning and centering the table in the middle of the room is frowned upon. 🙁
+    -   The room is divided into two *sides*. The boundary between the two *sides* is broken into three straight lines: The boundary runs perpendicular from each wall to each wall's nearest post, and continues along the net.
 -   Each player must have a single standard issue ping pong paddle
-    -   Paddles with padding on both sides are called *good*
-    -   Paddles with padding on a single side are called *slappy*
-    -   Paddles with padding that is partially pealing off are called *flappy*
-    -   Paddles with no padding are called *woody*
 -   One standard issue ping pong ball
 
 
@@ -37,12 +33,19 @@
 -   **SotT**: Side of the table.
 -   **Strike/Struck**: Contacted by a paddle.
 -   **Receiving Team**: The team not in possession of the ball.
+-   **Slappy**: Paddles with padding on a single side.
+-   **Flappy**: Paddles with padding that is partially pealing off.
+-   **Woody**: Paddles with no padding whatsoever.
+
 
 ### Examples
 Although the rules allow the number of players per team to be scalable, all examples will assume there are four players, two per team. The teams will be known as **A** and **B**, and the players for teams will be known as **A1**/**A2** and **B1**/**B2** respectively.
 
 
 ## Objective
+The objective of the rules are to be as *ruleless* as possible, which means our rules are very broad. If you don't see it in this ruleset, consider it legal. Try not to hurt each other. Anyways, the real objective of the game is to have as much fun as possible. Generally, this means we have developed the rules to help extend rallies and allow for seemingly improbable shots to occur with regularity.
+
+### Game Objective
 Accumulate at least 21 points and have at least 2 more points than the opponent.
 
 
